@@ -6,13 +6,13 @@
 <hr/>
 
 ## 📅 10/4 (UseImperativeHandle.txt 에 정리)
-<p>📋 React에서 useImperativeHandle 훅을 사용하는 목적과 그 동작 방식을 설명하고, 언제 이를 사용해야 하는지 설명하라</p>
-<p>📋 useImperativeHandle을 남용했을 때 문제점과 이를 방지하기 위한 사례를 설명하라.</p>
+<p>📋 React에서 useImperativeHandle 훅을 사용하는 목적과 그 동작 방식 및 언제 이를 사용해야 하는가</p>
+<p>📋 useImperativeHandle을 남용했을 때 문제점과 이를 방지하기 위한 사례</p>
 <hr>
 
 ## 📅 10/5 (rendering.txt 에 정리)
 <p>📋 웹 브라우저 렌더링 과정에 대해 설명하라</p>
-<p>📋 렌더링 성능에 영향을 미치는 요소들에 대해 설명하고, 리플로우와 리페인트에 대한 설명 및 최적화 기법에 대해 설명하라</p>
+<p>📋 렌더링 성능에 영향을 미치는 요소들에 그리고 리플로우와 리페인트에 대한 설명 및 최적화 기법</p>
 <hr>
 
 ## 📅 10/6 (cache.txt 에 정리)
@@ -23,4 +23,8 @@
 <hr>
 
 ## 📅 10/7 (controlComponent.txt 에 정리)
-<p>📋 React에서 상태 관리의 복잡성을 줄이기 위해 컴포넌트를 비제어(Uncontrolled) 컴포넌트로 사용할 수 있는 상황과, 제어(Control) 컴포넌트로 사용할 수 있는 상황을 비교하여 설명</p>
+<p>📋 React에서 상태 관리의 복잡성을 줄이기 위해 컴포넌트를 비제어(Uncontrolled) 컴포넌트로 사용할 수 있는 상황과, 제어(Control) 컴포넌트로 사용할 수 있는 상황을 비교</p>
+<hr>
+
+## 📅 10/ (imageOptimization.txt 에 정리)
+<p>📋 웹 애플리케이션에서 이미지 최적화를 위해 WebP 포맷을 사용하는 장점과 적용 방법 및 해당 포맷이 JPEG나 PNG와 비교했을 때 성능에 미치는 영향</p>
