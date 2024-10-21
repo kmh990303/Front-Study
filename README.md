@@ -26,5 +26,5 @@
 <p>📋 React에서 상태 관리의 복잡성을 줄이기 위해 컴포넌트를 비제어(Uncontrolled) 컴포넌트로 사용할 수 있는 상황과, 제어(Control) 컴포넌트로 사용할 수 있는 상황을 비교</p>
 <hr>
 
-## 📅 10/ (imageOptimization.txt 에 정리)
+## 📅 10/21 (imageOptimization.txt 에 정리)
 <p>📋 웹 애플리케이션에서 이미지 최적화를 위해 WebP 포맷을 사용하는 장점과 적용 방법 및 해당 포맷이 JPEG나 PNG와 비교했을 때 성능에 미치는 영향</p>
